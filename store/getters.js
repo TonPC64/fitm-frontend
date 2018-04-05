@@ -1,0 +1,9 @@
+export const counter = state => state.counter
+export const data = state => state.dataUpload
+export const dataRecieve = state => state.dataRecieve
+export const test = state => state.test
+export const filename = state => state.filename
+export const images = state => state.images
+export const news = state => state.news
+export const activity = state => state.activity
+export const dataModalNew = state => state.dataNew
